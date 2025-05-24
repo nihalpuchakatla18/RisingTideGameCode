@@ -1,0 +1,16 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.userprefs
+*.unitypackage
+.DS_Store
